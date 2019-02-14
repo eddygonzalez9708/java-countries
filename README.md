@@ -23,7 +23,7 @@ The countries of the world have many different defining attributes including lan
       * return the names of all the countries alphabetically
     * /names/begin?letter=
       * return the countries alphabetically that begin with the given letter
-    * /names/size?letters=
+    * /names/size?length=
       * return the countries alphabetically that have a name equal to or longer than the given length
 
     * /population/size?people=
